@@ -20,4 +20,13 @@ import BottomUpPanel from 'react-native-bottom-up-panel';
 
 ## Documentation
 
+shadowHeight: PropTypes.number.isRequired,
+minOpacity: PropTypes.number,
+maxOpacity: PropTypes.number,
+isVisible: PropTypes.bool.isRequired,
+children: PropTypes.arrayOf(React.Component).isRequired,
+getRef: PropTypes.func.isRequired,
+closeModal: PropTypes.func.isRequired,
+closingGesture: PropTypes.bool,
+
 ## Examples
