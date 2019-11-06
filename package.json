@@ -1,5 +1,5 @@
 {
-  "name": "bottom-up-panel",
+  "name": "react-native-bottom-up-panel",
   "version": "1.0.0",
   "description": "A sliding panel from the bottom of the screen",
   "main": "./src/index.js",
