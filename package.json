@@ -1,0 +1,38 @@
+{
+  "name": "bottom-up-panel",
+  "version": "1.0.0",
+  "description": "A sliding panel from the bottom of the screen",
+  "main": "./src/index.js",
+  "scripts": {
+    "lint": "eslint src/",
+    "clean-install": "rm -rf node_modules && yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moumene/bottom-up-panel.git"
+  },
+  "keywords": [
+    "panel",
+    "bottomUp",
+    "sliding",
+    "panel",
+    "slide",
+    "component",
+    "react-native",
+    "native"
+  ],
+  "author": "Moumen Wifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moumene/bottom-up-panel/issues"
+  },
+  "homepage": "https://github.com/Moumene/bottom-up-panel#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-react": "^7.16.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
